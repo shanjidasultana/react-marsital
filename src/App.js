@@ -9,6 +9,7 @@ import Gallery from './components/Gallery/Gallery';
 import Footer from './components/Footer/Footer';
 import NotFound from './components/NotFound/NotFound';
 import Blogs from './components/Blogs/Blogs';
+import Features from './components/Features/Features';
 function App() {
   return (
     <div className="App">
@@ -33,6 +34,9 @@ function App() {
           </Route>
           <Route path="/blogs">
             <Blogs></Blogs>
+          </Route>
+          <Route path="/features">
+            <Features></Features>
           </Route>
 
           <Route path="*">

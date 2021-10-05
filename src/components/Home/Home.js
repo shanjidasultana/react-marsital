@@ -25,7 +25,7 @@ const Home = () => {
                     />
                     <Carousel.Caption>
                     <div className="h-70" >
-                        <h1 className="bg-danger p-2 rounded  mx-auto w-50">MARTIAL X-FACTOR</h1>
+                        <h1 className="bg-danger p-2 rounded  mx-auto w-50 animate_animation animate__heartBeat animate_delay-10s">MARTIAL X-FACTOR</h1>
                         <h5>TRAIN WITH BEST LEGENDS</h5>
                         <p>Become the best version  of yourself through martial art's</p>
                         <button className="btn btn-warning fs-2">BOOK NOW</button>
@@ -41,7 +41,7 @@ const Home = () => {
                     />
                     <Carousel.Caption>
                     <div className="h-70">
-                    <h1 className="bg-danger p-2 rounded  mx-auto w-50">MARTIAL X-FACTOR</h1>
+                    <h1 className="bg-danger p-2 rounded  mx-auto w-50  animate_animation animate__heartBeat animate_delay-10s">MARTIAL X-FACTOR</h1>
                     <h5>TRAIN WITH BEST LEGENDS</h5>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                     <button className="btn btn-warning fs-2">APPLY NOW</button>
@@ -56,7 +56,7 @@ const Home = () => {
                     />
                     <Carousel.Caption>
                     <div className='text-center h-70'>
-                        <h1 className="bg-danger p-2 mx-auto rounded w-50">MARTIAL X-FACTOR</h1>
+                        <h1 className="bg-danger p-2 mx-auto rounded w-50  animate_animation animate__heartBeat animate_delay-10s">MARTIAL X-FACTOR</h1>
                         <h5>TRAIN WITH BEST LEGENDS</h5>
                         <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
                         <button className="btn btn-warning fs-2">APPLY NOW</button>

@@ -7,7 +7,7 @@ const Class = (props) => {
         // <div>
         
             <Col>
-                <Card className="border-0 shadow" style={{borderRadius:"15px",height:"650px"}} >
+                <Card className="animate__animated animate__bounce animate__delay-2s border-0 shadow" style={{borderRadius:"15px",height:"650px"}} >
                     <Card.Img variant="top" src={picture}  style={{padding:"20px",borderRadius:"40px",}} height="450"/>
                     <Card.Body>
                     <Card.Title>{title}</Card.Title>

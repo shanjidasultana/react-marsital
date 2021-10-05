@@ -2,7 +2,7 @@
 
 Netlify link of this website:
 
- [https://dreamy-shockley-57096c.netlify.app/blogs] 
+ [https://dreamy-shockley-57096c.netlify.app/] 
  to view it in the browser.
 
 ## By Using these-----
