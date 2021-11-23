@@ -43,7 +43,7 @@ const Home = () => {
                     <div className="h-70">
                     <h1 className="bg-danger p-2 rounded  mx-auto w-50  animate_animation animate__heartBeat animate_delay-10s">MARTIAL X-FACTOR</h1>
                     <h5>TRAIN WITH BEST LEGENDS</h5>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    <p>Consectetur adipiscing elit. Try tooo...</p>
                     <button className="btn btn-warning fs-2">APPLY NOW</button>
                     </div>
                     </Carousel.Caption>
